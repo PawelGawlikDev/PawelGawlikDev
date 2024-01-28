@@ -10,9 +10,9 @@
 
 - Welcome to my GitHub profile! My name is Paweł Gawlik and I am a beginner front-end developer with a passion for creating engaging and user-friendly web applications.
 
-- I am currently pursuing a master's degree in Artificial Intelligence and Machine Learning, where I am sharing my knowledge related to Artificial Intelligence.
+- I am currently pursuing a master's degree in Artificial Intelligence and Machine Learning, where I'm deepening my knowledge related to Artificial Intelligence.
 
-- This repository is for my actual and future projects (with are in progress)
+- This profile is for my actual and future projects
 
 <br><br>
 
